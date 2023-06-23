@@ -1,7 +1,7 @@
 # 似寫隨宋 Lrite Wsong
-用[思源黑體](https://github.com/adobe-fonts/source-han-sans/)改的可變字體
+用[思源宋體](https://github.com/adobe-fonts/source-han-serif/)改的可變字體
 
-Variable font changed from Source Han Sans
+Variable font changed from Source Han Serif
 
 這是我的可變字體的練習對象，不只有斜體，效果很爛
 
@@ -22,16 +22,16 @@ I made a variation, hoping to try it out, but it sucks to use
 # 使用字體效果 Use Font Effects
 
 # 原來的字體 Original Font
-https://github.com/adobe-fonts/source-han-sans/
+https://github.com/adobe-fonts/source-han-serif/
 
-思源黑體，是Adobe與Google所合作開發的開源字型家族，Adobe叫Source Han Sans，Google叫Noto Sans CJK
-Source Han Sans is an open source font family jointly developed by Adobe and Google. Adobe is called Source Han Sans, and Google is called Noto Sans CJK.
+思源宋體，是Adobe與Google所合作開發的開源字型家族，Adobe叫Source Han Sans，Google叫Noto Sans CJK
+Source Han Serif is an open source font family jointly developed by Adobe and Google. Adobe is called Source Han Sans, and Google is called Noto Sans CJK.
 
 # 開源字體授權規定 Open Source Font Licensing Regulations
 
-* 本字型基於 SIL Open Font License 1.1，是[思源黑體](https://github.com/adobe-fonts/source-han-sans/)修改的開源字體。
+* 本字型基於 SIL Open Font License 1.1，是[思源宋體](https://github.com/adobe-fonts/source-han-serif/)修改的開源字體。
 
-This font is based on SIL Open Font License 1.1, which is an open source font modified by [Klee One](https://fonts.google.com/specimen/Klee+One).
+This font is based on SIL Open Font License 1.1, which is an open source font modified by [Source Han Serif](https://github.com/adobe-fonts/source-han-serif/).
 
 * 任何人可以免費使用此字型，包含商用。無須告知原作者。
 

@@ -1,7 +1,7 @@
 # 似寫隨宋 Lrite Wsong
 用[思源宋體](https://github.com/adobe-fonts/source-han-serif/)改的可變字體
 
-Variable font changed from Source Han Serif
+Variable font changed from [Source Han Serif](https://github.com/adobe-fonts/source-han-serif/)
 
 這是我的可變字體的練習對象，不只有斜體，效果很爛
 
@@ -17,7 +17,7 @@ Currently there is only TC version, this variable font has many effects, the fil
 
 I made a variation, hoping to try it out, but it sucks to use
 
-![](https://github.com/FWHP-Enfun/Lrite-Wlack/blob/main/Picture/0.png)
+![](https://github.com/FWHP-Enfun/Lrite-Wsong/blob/main/Picture/0.png)
 
 # 使用字體效果 Use Font Effects
 
